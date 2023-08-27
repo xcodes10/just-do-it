@@ -1,2 +1,2 @@
-# just-do-it
+# sign-up form
 Sign up form project
